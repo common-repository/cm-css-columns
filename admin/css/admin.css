@@ -1,0 +1,20 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+.css_columns_dialog, .css_col_span_dialog, .css_no_break_dialog {
+	z-index:10000 !important;
+}
+.ui-dialog-content label {
+	padding-top:0.8em;
+}
+.ui-dialog-content label {
+	width:60%;
+	display:inline-block;
+	margin-bottom: 0.8em;
+}
+.ui-dialog-content input, .ui-dialog-content select {
+	width:35%;
+	display:inline-block;
+	margin-bottom: 0.8em;
+}
